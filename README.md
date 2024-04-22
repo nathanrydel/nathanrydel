@@ -73,8 +73,10 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <h3>⚡ Recent GitHub Activity</h3>
+
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
+
 1. 🔒 Closed issue [#7](https://github.com/nathanrydel/react-jobly-v2/issues/7) in [nathanrydel/react-jobly-v2](https://github.com/nathanrydel/react-jobly-v2)
 2. 🎉 Merged PR [#26](https://github.com/nathanrydel/react-jobly-v2/pull/26) in [nathanrydel/react-jobly-v2](https://github.com/nathanrydel/react-jobly-v2)
 3. 🔒 Closed issue [#9](https://github.com/nathanrydel/react-jobly-v2/issues/9) in [nathanrydel/react-jobly-v2](https://github.com/nathanrydel/react-jobly-v2)
