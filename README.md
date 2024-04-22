@@ -77,11 +77,11 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#7](https://github.com/nathanrydel/react-jobly-v2/issues/7) in [nathanrydel/react-jobly-v2](https://github.com/nathanrydel/react-jobly-v2)
-2. 🎉 Merged PR [#26](https://github.com/nathanrydel/react-jobly-v2/pull/26) in [nathanrydel/react-jobly-v2](https://github.com/nathanrydel/react-jobly-v2)
-3. 🔒 Closed issue [#9](https://github.com/nathanrydel/react-jobly-v2/issues/9) in [nathanrydel/react-jobly-v2](https://github.com/nathanrydel/react-jobly-v2)
-4. 🎉 Merged PR [#23](https://github.com/nathanrydel/react-jobly-v2/pull/23) in [nathanrydel/react-jobly-v2](https://github.com/nathanrydel/react-jobly-v2)
-5. 💪 Opened PR [#22](https://github.com/nathanrydel/react-jobly-v2/pull/22) in [nathanrydel/react-jobly-v2](https://github.com/nathanrydel/react-jobly-v2)
+1. 🔒 Closed issue [#35](https://github.com/nathanrydel/personal-website/issues/35) in [nathanrydel/personal-website](https://github.com/nathanrydel/personal-website)
+2. 🔒 Closed issue [#34](https://github.com/nathanrydel/personal-website/issues/34) in [nathanrydel/personal-website](https://github.com/nathanrydel/personal-website)
+3. 🔒 Closed issue [#33](https://github.com/nathanrydel/personal-website/issues/33) in [nathanrydel/personal-website](https://github.com/nathanrydel/personal-website)
+4. 🔒 Closed issue [#32](https://github.com/nathanrydel/personal-website/issues/32) in [nathanrydel/personal-website](https://github.com/nathanrydel/personal-website)
+5. 🔒 Closed issue [#31](https://github.com/nathanrydel/personal-website/issues/31) in [nathanrydel/personal-website](https://github.com/nathanrydel/personal-website)
 <!--END_SECTION:activity-->
 
 
