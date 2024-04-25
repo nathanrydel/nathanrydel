@@ -77,11 +77,11 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#35](https://github.com/nathanrydel/personal-website/issues/35) in [nathanrydel/personal-website](https://github.com/nathanrydel/personal-website)
-2. 🔒 Closed issue [#34](https://github.com/nathanrydel/personal-website/issues/34) in [nathanrydel/personal-website](https://github.com/nathanrydel/personal-website)
-3. 🔒 Closed issue [#33](https://github.com/nathanrydel/personal-website/issues/33) in [nathanrydel/personal-website](https://github.com/nathanrydel/personal-website)
-4. 🔒 Closed issue [#32](https://github.com/nathanrydel/personal-website/issues/32) in [nathanrydel/personal-website](https://github.com/nathanrydel/personal-website)
-5. 🔒 Closed issue [#31](https://github.com/nathanrydel/personal-website/issues/31) in [nathanrydel/personal-website](https://github.com/nathanrydel/personal-website)
+1. 🔒 Closed issue [#5](https://github.com/nathanrydel/nextjs-portfolio/issues/5) in [nathanrydel/nextjs-portfolio](https://github.com/nathanrydel/nextjs-portfolio)
+2. 🎉 Merged PR [#6](https://github.com/nathanrydel/nextjs-portfolio/pull/6) in [nathanrydel/nextjs-portfolio](https://github.com/nathanrydel/nextjs-portfolio)
+3. 💪 Opened PR [#6](https://github.com/nathanrydel/nextjs-portfolio/pull/6) in [nathanrydel/nextjs-portfolio](https://github.com/nathanrydel/nextjs-portfolio)
+4. ❗ Opened issue [#5](https://github.com/nathanrydel/nextjs-portfolio/issues/5) in [nathanrydel/nextjs-portfolio](https://github.com/nathanrydel/nextjs-portfolio)
+5. 🔒 Closed issue [#3](https://github.com/nathanrydel/nextjs-portfolio/issues/3) in [nathanrydel/nextjs-portfolio](https://github.com/nathanrydel/nextjs-portfolio)
 <!--END_SECTION:activity-->
 
 
