@@ -58,13 +58,13 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="nathanrydel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nathanrydel&show_icons=true&theme=dracula" height="192px"/>
+    <img alt="nathanrydel's Github Stats" src="https://github-readme-stats-nathan-rydel.vercel.app/api?username=nathanrydel&show_icons=true&theme=dracula" height="192px"/>
   </a>
 
   <br/>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="nathanrydel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrydel&theme=dracula&layout=compact" height="192px"/>
+    <img alt="nathanrydel's Top Languages" src="https://github-readme-stats-nathan-rydel.vercel.app/api/top-langs/?username=nathanrydel&theme=dracula&layout=compact" height="192px"/>
   </a>
 </p>
 
