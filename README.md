@@ -2,7 +2,7 @@
 <br />
 
 <p align="center">
-  <a href="https://nathanrydel.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=1&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=false&random=false&width=500&height=45&lines=Nathan+Rydel" alt="Nathan Rydel" /></a>
+  <a href="https://nathanrydel.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=1&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=false&random=false&width=500&height=65&lines=Nathan+Rydel" alt="Nathan Rydel" /></a>
 </p>
 
 <p align="center">
