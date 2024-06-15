@@ -84,6 +84,6 @@
 5. ❗ Opened issue [#3](https://github.com/nathanrydel/go-todo-app/issues/3) in [nathanrydel/go-todo-app](https://github.com/nathanrydel/go-todo-app)
 <!--END_SECTION:activity-->
 
-
+![](https://komarev.com/ghpvc/?username=nathanrydel&color=blueviolet&style=for-the-badge)
 </details>
 
