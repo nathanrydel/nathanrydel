@@ -77,10 +77,10 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2](https://github.com/nathanrydel/go-todo-app/issues/2) in [nathanrydel/go-todo-app](https://github.com/nathanrydel/go-todo-app)
-2. 🎉 Merged PR [#5](https://github.com/nathanrydel/go-todo-app/pull/5) in [nathanrydel/go-todo-app](https://github.com/nathanrydel/go-todo-app)
-3. 💪 Opened PR [#5](https://github.com/nathanrydel/go-todo-app/pull/5) in [nathanrydel/go-todo-app](https://github.com/nathanrydel/go-todo-app)
-4. ❗ Opened issue [#4](https://github.com/nathanrydel/go-todo-app/issues/4) in [nathanrydel/go-todo-app](https://github.com/nathanrydel/go-todo-app)
+1. 🔒 Closed issue [#4](https://github.com/nathanrydel/go-todo-app/issues/4) in [nathanrydel/go-todo-app](https://github.com/nathanrydel/go-todo-app)
+2. 🔒 Closed issue [#3](https://github.com/nathanrydel/go-todo-app/issues/3) in [nathanrydel/go-todo-app](https://github.com/nathanrydel/go-todo-app)
+3. 🎉 Merged PR [#6](https://github.com/nathanrydel/go-todo-app/pull/6) in [nathanrydel/go-todo-app](https://github.com/nathanrydel/go-todo-app)
+4. 💪 Opened PR [#6](https://github.com/nathanrydel/go-todo-app/pull/6) in [nathanrydel/go-todo-app](https://github.com/nathanrydel/go-todo-app)
 5. ❗ Opened issue [#3](https://github.com/nathanrydel/go-todo-app/issues/3) in [nathanrydel/go-todo-app](https://github.com/nathanrydel/go-todo-app)
 <!--END_SECTION:activity-->
 
