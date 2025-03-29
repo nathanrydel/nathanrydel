@@ -37,12 +37,12 @@
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,go,cs,go,postgres">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,go,cs,postgres">
 </p>
 
 ### Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,astro,nodejs,express,nextjs,prisma,tailwind,flask,bootstrap,mongodb,webflow,wordpress">
+  <img src="https://skillicons.dev/icons?i=react,vue,astro,nodejs,express,nextjs,prisma,tailwind,flask,bootstrap,mongodb,webflow,wordpress,framer">
 </p>
 
 ### Tools
