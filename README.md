@@ -42,7 +42,7 @@
 
 ### Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,astro,nodejs,express,nextjs,prisma,tailwind,flask,bootstrap,mongodb,webflow,wordpress,framer">
+  <img src="https://skillicons.dev/icons?i=react,vue,astro,nodejs,express,nextjs,prisma,tailwind,flask,bootstrap,mongodb,webflow,wordpress">
 </p>
 
 ### Tools
