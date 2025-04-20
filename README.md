@@ -24,10 +24,10 @@
 
 **Full Stack Developer** with **3+ years** building scalable web apps and **7+ years** in technical support/DevOps. I bridge cutting-edge engineering with real-world usability through:
 
-✔ **Full-Stack Development** - React, Vue, Next.js, TypeScript, Python, Go
-✔ **AI Integrations** - LLM ecosystems, data pipelines, and predictive analytics
-✔ **Cloud & DevOps** - AWS, Azure, Docker, CI/CD automation
-✔ **Problem-Solving** - Debugging complex systems (ex-Apple, Accenture)
+- ✔ **Full-Stack Development** - React, Vue, Next.js, TypeScript, Python, Go
+- ✔ **AI Integrations** - LLM ecosystems, data pipelines, and predictive analytics
+- ✔ **Cloud & DevOps** - AWS, Azure, Docker, CI/CD automation
+- ✔ **Problem-Solving** - Debugging complex systems (ex-Apple, Accenture)
 
 **Open to roles in:**
 - Software Engineering (Full-Stack/Frontend/Backend)
