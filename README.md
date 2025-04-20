@@ -6,70 +6,65 @@
 </p>
 
 <p align="center">
-  <a href="https://nathanrydel.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=440&height=45&lines=Full+Stack+Web+Developer;E-commerce+Developer;Always+learning+new+things" alt="About Me" /></a>
+  <a href="https://nathanrydel.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=500&height=45&lines=Full+Stack+Developer;AI+Integrations+Specialist;DevOps+%26+Cloud+Solutions" alt="About Me" /></a>
 </p>
 
-<!-- Social icons section -->
+<!-- Social icons -->
 <p align="center">
-  <a href="https://www.youtube.com/@NRDevs"><img width="32px" alt="Youtube" title="Youtube" src="./assets/youtube-logo-purple.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/nathan-rydel/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/linkedin-icon-violet.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/NathanRydel"><img width="32px" alt="Twitter" title="Twitter" src="./assets/x-logo-purple.svg"/></a>
+  <a href="mailto:contact@nathanrydel.dev"><img width="32px" alt="Email" title="Email" src="./assets/email-icon-purple.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.upwork.com/freelancers/~01bcaf165a818e8816"><img width="48px" alt="Upwork" title="Upwork" src="./assets/upwork-logo-purple.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.fiverr.com/nathanrydel"><img width="48px" alt="Fiverr" title="Fiverr" src="./assets/fiverr-logo-purple.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://nathanrydel.dev"><img width="32px" alt="Portfolio" title="Portfolio" src="./assets/portfolio-icon-purple.svg"/></a>
 </p>
 
 <br />
 
-## Hi there, I'm Nathan and I am a Software Engineer
+## 👋 Professional Profile
 
-- 🔭 Looking for Full Stack | Frontend | Backend Engineering Roles
+**Full Stack Developer** with **3+ years** building scalable web apps and **7+ years** in technical support/DevOps. I bridge cutting-edge engineering with real-world usability through:
 
-- 🌱 Learning everything I can about TypeScript, React, and Next.js
+✔ **Full-Stack Development** - React, Vue, Next.js, TypeScript, Python, Go  
+✔ **AI Integrations** - LLM ecosystems, data pipelines, and predictive analytics  
+✔ **Cloud & DevOps** - AWS, Azure, Docker, CI/CD automation  
+✔ **Problem-Solving** - Debugging complex systems (ex-Apple, Accenture)  
 
-- 🏗️ Building full stack applications with the PERN Stack, Shopify, and Wordpress/Webflow
+**Open to roles in:**  
+- Software Engineering (Full-Stack/Frontend/Backend)  
+- AI/ML Engineering  
+- DevOps & Cloud Solutions  
+- Technical Consulting  
 
-## 🛠️ Languages and Tools
+🔗 **Portfolio:** [nathanrydel.dev](https://nathanrydel.dev) | **Blog:** [Coming Soon](#)
+
+## 🛠️ Core Technologies
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,go,cs,postgres">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,cs,html,css">
 </p>
 
-### Frameworks
+### Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,astro,nodejs,express,nextjs,prisma,tailwind,flask,bootstrap,mongodb,webflow,wordpress">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,flask,tailwind,aws,azure,docker,postgres,mongodb,git,figma">
 </p>
 
-### Tools
+### Specializations
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,ubuntu,pnpm,windows,vscode,vite,vitest,vercel,selenium,npm,aws,azure,docker,cloudflare,notion">
+  <img src="https://img.shields.io/badge/LLM_Integrations-FF6B6B?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_Pipelines-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/DevOps-38B2AC?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
 
 <details>
-
-<summary><h2> 📊 Stats and Activity</h2></summary>
-
-<h3>💻 GitHub Profile Stats</h3>
+<summary><h2>📊 GitHub Stats</h2></summary>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="nathanrydel's Github Stats" src="https://github-readme-stats-nathan-rydel.vercel.app/api?username=nathanrydel&show_icons=true&theme=dracula" height="192px"/>
-  </a>
-
-  <br/>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="nathanrydel's Top Languages" src="https://github-readme-stats-nathan-rydel.vercel.app/api/top-langs/?username=nathanrydel&theme=dracula&layout=compact" height="192px"/>
+    <img alt="My Github Stats" src="https://github-readme-stats-nathan-rydel.vercel.app/api?username=nathanrydel&show_icons=true&theme=dracula&hide_border=true" height="180px"/>
+    <img alt="Top Languages" src="https://github-readme-stats-nathan-rydel.vercel.app/api/top-langs/?username=nathanrydel&theme=dracula&layout=compact&hide_border=true" height="180px"/>
   </a>
 </p>
-
-<br/>
-
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <h3>⚡ Recent GitHub Activity</h3>
@@ -91,5 +86,5 @@
   ![](https://komarev.com/ghpvc/?username=nathanrydel&color=blueviolet&style=for-the-badge)
   
 </details>
-</details>
 
+</details>
