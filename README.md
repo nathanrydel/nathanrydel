@@ -13,9 +13,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nathan-rydel/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/linkedin-icon-violet.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:contact@nathanrydel.dev"><img width="32px" alt="Email" title="Email" src="./assets/email-icon-purple.svg"/></a>
+  <a href="mailto:contact@nathanrydel.dev"><img width="32px" alt="Email" title="Email" src="./assets/email-purple.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://nathanrydel.dev"><img width="32px" alt="Portfolio" title="Portfolio" src="./assets/portfolio-icon-purple.svg"/></a>
+  <a href="https://nathanrydel.dev"><img width="32px" alt="Portfolio" title="Portfolio" src="./assets/link-purple.svg"/></a>
 </p>
 
 <br />
@@ -24,16 +24,16 @@
 
 **Full Stack Developer** with **3+ years** building scalable web apps and **7+ years** in technical support/DevOps. I bridge cutting-edge engineering with real-world usability through:
 
-✔ **Full-Stack Development** - React, Vue, Next.js, TypeScript, Python, Go  
-✔ **AI Integrations** - LLM ecosystems, data pipelines, and predictive analytics  
-✔ **Cloud & DevOps** - AWS, Azure, Docker, CI/CD automation  
-✔ **Problem-Solving** - Debugging complex systems (ex-Apple, Accenture)  
+✔ **Full-Stack Development** - React, Vue, Next.js, TypeScript, Python, Go
+✔ **AI Integrations** - LLM ecosystems, data pipelines, and predictive analytics
+✔ **Cloud & DevOps** - AWS, Azure, Docker, CI/CD automation
+✔ **Problem-Solving** - Debugging complex systems (ex-Apple, Accenture)
 
-**Open to roles in:**  
-- Software Engineering (Full-Stack/Frontend/Backend)  
-- AI/ML Engineering  
-- DevOps & Cloud Solutions  
-- Technical Consulting  
+**Open to roles in:**
+- Software Engineering (Full-Stack/Frontend/Backend)
+- AI/ML Engineering
+- DevOps & Cloud Solutions
+- Technical Consulting
 
 🔗 **Portfolio:** [nathanrydel.dev](https://nathanrydel.dev) | **Blog:** [Coming Soon](#)
 
@@ -84,7 +84,7 @@
 
   <!-- https://komarev.com/sources/github-profile-views-counter -->
   ![](https://komarev.com/ghpvc/?username=nathanrydel&color=blueviolet&style=for-the-badge)
-  
+
 </details>
 
 </details>
