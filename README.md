@@ -65,7 +65,7 @@
     <img alt="Top Languages" src="https://github-readme-stats-nathan-rydel.vercel.app/api/top-langs/?username=nathanrydel&theme=dracula&layout=compact&hide_border=true" height="180px"/>
   </a>
 </p>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages in my public code and doesn't reflect experience or skill level with the language.
 
 <h3>⚡ Recent GitHub Activity</h3>
 
