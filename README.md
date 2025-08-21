@@ -22,7 +22,7 @@
 
 ## 👋 Professional Profile
 
-**Full Stack Developer** with **3+ years** building scalable web apps and **7+ years** in technical support/DevOps. I bridge cutting-edge engineering with real-world usability through:
+**Full Stack Developer** with **2+ years** building scalable web apps and **7+ years** in technical support/DevOps. I bridge cutting-edge engineering with real-world usability through:
 
 - ✔ **Full-Stack Development** - React, Vue, Next.js, TypeScript, Python, Go
 - ✔ **AI Integrations** - LLM ecosystems, data pipelines, and predictive analytics
