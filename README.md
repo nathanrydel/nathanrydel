@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nathanrydel.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=500&height=45&lines=Full+Stack+Developer;AI+Integrations+Specialist;DevOps+%26+Cloud+Solutions" alt="About Me" /></a>
+  <a href="https://nathanrydel.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=500&height=45&lines=Full+Stack+Developer;AI+Integrations+Specialist;TypeScript+%26+Python+Solutions" alt="About Me" /></a>
 </p>
 
 <!-- Social icons -->
