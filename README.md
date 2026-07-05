@@ -50,13 +50,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,flask,tailwind,aws,azure,docker,postgres,mongodb,git,figma">
 </p>
 
-### Specializations
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM_Integrations-FF6B6B?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/AI_Pipelines-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/DevOps-38B2AC?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>
-
 <details>
 <summary><h2>📊 GitHub Stats</h2></summary>
 
