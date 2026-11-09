@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nathanrydel.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=500&height=45&lines=Full+Stack+Developer;TypeScript+%26+Python+Go" alt="About Me" /></a>
+  <a href="https://nathanrydel.dev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=500&height=45&lines=Founding+Engineer;AI+Agents+%26+Workflows;Python+%26+TypeScript" alt="Founding Engineer, AI Agents and Workflows, Python and TypeScript" /></a>
 </p>
 
 <!-- Social icons -->
@@ -20,48 +20,43 @@
 
 <br />
 
-## 👋 Professional Profile
+## 👋 About me
 
-**Full Stack Developer** with **2+ years** building scalable web apps and **7+ years** in technical support/DevOps. I bridge cutting-edge engineering with real-world usability through:
+Founding engineer at [Navys](https://navys.ai), the legal platform for private funds. I own the stack end to end, from Django and Next.js to Azure and our ISO 27001 and SOC 2 programme. I also build the AI pipeline behind Sam, our assistant, which turns inbound email into deal updates.
 
-- ✔ **Full-Stack Development** - React, Vue, Next.js, TypeScript, Python, Go
-- ✔ **AI Integrations** - LLM powered applications, data pipelines, and analytics
-- ✔ **Cloud & DevOps** - AWS, Azure, Docker, CI/CD automation
-- ✔ **Problem-Solving** - Debugging complex systems (ex-Apple, Accenture)
+Before engineering, I spent two and a half years in developer support, on Meta's developer platform at Accenture and on security SaaS at Mend.
 
-**Open to roles in:**
-- Software Engineering (Full-Stack/Frontend/Backend)
-- Technical Support/Software Support Engineering
-- Software Development Engineer in Test | QA Engineering
-- DevOps & Cloud Solutions
-- Technical Consulting
+- ✔ **Full stack product work:** React, Next.js, TypeScript, Python, Go
+- ✔ **AI workflows:** LLM agent pipelines on the Anthropic SDK, RAG, prompt injection defences
+- ✔ **Cloud and DevOps:** Azure, AWS, Terraform, Docker, GitHub Actions
+- ✔ **Security and compliance:** ISO 27001, SOC 2, Entra ID, RBAC with Casbin
 
-🔗 **Portfolio:** [nathanrydel.dev](https://nathanrydel.dev) | **Blog:** [Coming Soon](#)
+🔗 **Portfolio:** [nathanrydel.dev](https://nathanrydel.dev)
 
-## 🛠️ Core Technologies
+## 🛠️ Core technologies
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,cs,html,css">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,go,html,css">
 </p>
 
-### Frameworks & Tools
+### Frameworks and tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,flask,tailwind,aws,azure,docker,postgres,mongodb,git,figma">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,react,nextjs,vue,tailwind,postgres,redis,azure,aws,terraform,docker,githubactions,git">
 </p>
 
 <details>
-<summary><h2>📊 GitHub Stats</h2></summary>
+<summary><h2>📊 GitHub stats</h2></summary>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="My Github Stats" src="https://github-readme-stats-nathan-rydel.vercel.app/api?username=nathanrydel&show_icons=true&theme=dracula&hide_border=true" height="180px"/>
-    <img alt="Top Languages" src="https://github-readme-stats-nathan-rydel.vercel.app/api/top-langs/?username=nathanrydel&theme=dracula&layout=compact&hide_border=true" height="180px"/>
+    <img alt="My GitHub stats" src="https://github-readme-stats-nathan-rydel.vercel.app/api?username=nathanrydel&show_icons=true&theme=dracula&hide_border=true" height="180px"/>
+    <img alt="Top languages" src="https://github-readme-stats-nathan-rydel.vercel.app/api/top-langs/?username=nathanrydel&theme=dracula&layout=compact&hide_border=true" height="180px"/>
   </a>
 </p>
-<b>Note:</b> Top languages is only a metric of the languages in my public code and doesn't reflect experience or skill level with the language.
+<b>Note:</b> Top languages covers my public repos only. Most of my work lives in private repos.
 
-<h3>⚡ Recent GitHub Activity</h3>
+<h3>⚡ Recent GitHub activity</h3>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
@@ -74,7 +69,7 @@
 <!--END_SECTION:activity-->
 
 <details>
-  <summary><h4>👓Views</h4></summary>
+  <summary><h4>👓 Views</h4></summary>
 
   <!-- https://komarev.com/sources/github-profile-views-counter -->
   ![](https://komarev.com/ghpvc/?username=nathanrydel&color=blueviolet&style=for-the-badge)
